@@ -13,7 +13,7 @@
 - 💬 Community-driven map updates
 - 🧩 Modular plugin-based architecture
 - 🔒 CI/CD workflow and branch protection
-- 📜 MIT License — free to use & modify
+- 📜 GNU License — free to use & modify
 
 ---
 
@@ -39,7 +39,7 @@ navigation-openmap/
 | Backend | Fastify, Node.js, PostGIS |
 | Data | OpenStreetMap, GeoJSON, GPX |
 | CI/CD | GitHub Actions |
-| License | MIT License |
+| License | GNU License |
 
 ---
 
