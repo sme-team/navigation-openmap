@@ -19,4 +19,64 @@
 
 ## 📦 Project Structure
 
+navigation-openmap/
+├── frontend/ # Next.js + Leaflet UI
+├── backend/ # Fastify + PostGIS APIs
+├── data/ # GeoJSON / OSM import scripts
+├── docs/ # Documentation site (Docusaurus)
+└── .github/
+├── workflows/ # CI/CD pipelines
+└── ISSUE_TEMPLATE/
+
+
+---
+
+## ⚙️ Technology Stack
+
+| Layer | Technology |
+|--------|-------------|
+| Frontend | Next.js, Leaflet, MapLibre GL |
+| Backend | Fastify, Node.js, PostGIS |
+| Data | OpenStreetMap, GeoJSON, GPX |
+| CI/CD | GitHub Actions |
+| License | MIT License |
+
+---
+
+## 🧠 Goals
+
+- Cung cấp nền tảng bản đồ mở dễ sử dụng cho cộng đồng Việt Nam  
+- Cho phép người dùng chia sẻ và đóng góp dữ liệu thực tế  
+- Hỗ trợ tích hợp vào ứng dụng hoặc hệ thống quản lý khác  
+
+---
+
+## 🧩 Contributing
+
+Đóng góp vào dự án bằng cách:
+1. Fork repository  
+2. Tạo branch mới: `feature/my-new-feature`  
+3. Commit thay đổi của bạn  
+4. Gửi Pull Request để được review  
+
+Xem thêm trong [CONTRIBUTING.md](CONTRIBUTING.md)
+
+---
+
+## 💬 Community
+
+- 💡 **Discussions:** Dùng tab “Discussions” trên GitHub để đặt câu hỏi, đề xuất, và chia sẻ ý tưởng.  
+- 🐞 **Issues:** Báo lỗi hoặc yêu cầu tính năng mới qua [Issues](./issues).  
+
+---
+
+## 📜 License
+
+Dự án phát hành theo [MIT License](LICENSE).  
+Bạn có thể tự do sử dụng, chỉnh sửa, và triển khai.
+
+---
+
+> 💚 Made with community — for community 🇻🇳
+
 
