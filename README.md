@@ -72,8 +72,7 @@ Xem thêm trong [CONTRIBUTING.md](CONTRIBUTING.md)
 
 ## 📜 License
 
-Dự án phát hành theo [MIT License](LICENSE).  
-Bạn có thể tự do sử dụng, chỉnh sửa, và triển khai.
+Dự án phát hành theo [GNU License](LICENSE).
 
 ---
 
