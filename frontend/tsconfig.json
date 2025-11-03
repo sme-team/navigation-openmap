@@ -72,17 +72,14 @@
     }
   },
   "include": [
-    "next-env.d.ts",
     "**/*.ts",
     "**/*.tsx",
     "frontend/.next/types/**/*.ts",
-    "src/**/*",
+    "next-env.d.ts",
     "public/**/*.json",
+    "src/**/*",
     "src/app/**/*",
-    "src/app/[locale]/enterprises/**/*",
-    "src/app/landing/**/*",
-    "src/app/blog/**/*",
-    "src/app/types/**/*"
+    ".next/types/**/*.ts"
   ],
   "exclude": [
     "node_modules"
