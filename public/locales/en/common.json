@@ -1,0 +1,76 @@
+{
+  "common": {
+    "about": "About",
+    "services": "Services",
+    "blog": "Blog",
+    "contact": "Contact",
+    "allRightsReserved": "All Rights Reserved",
+    "softwareDevelopment": "Software Development",
+    "filter": "Filter",
+    "export": "Export",
+    "deselectAll": "Deselect all",
+    "selectAll": "Select all",
+    "delete": "Delete",
+    "previous": "Previous",
+    "next": "Next",
+    "loading": "Loading...",
+    "edit": "Edit",
+    "never": "Never",
+    "view": "View",
+    "actions": "Actions",
+    "cancel": "Cancel",
+    "saving": "Saving...",
+    "save": "Save Changes",
+    "clearFilters": "Clear all",
+    "refresh": "Refresh"
+  },
+  "settings": {
+    "title": "Settings",
+    "theme": "Theme",
+    "color": "Color",
+    "language": "Language",
+    "lightMode": "Light",
+    "darkMode": "Dark",
+    "systemMode": "System",
+    "chooseColor": "Choose your favorite color palette",
+    "languageDescription": "Changes will apply to all pages"
+  },
+  "nav": {
+    "home": "Home",
+    "login": "Login",
+    "about": "About",
+    "blog": "Blog",
+    "links": "Links",
+    "services": "Services",
+    "contact": "Contact",
+    "company": "DqcAi",
+    "profile": "Profile",
+    "dashboard": "Dashboard",
+    "adminDashboard": "Admin Dashboard",
+    "logout": "Logout"
+  },
+  "pages": {
+    "home": "TechInsights",
+    "articles": "Articles",
+    "dqcai": "@dqcai/sqlite Structure",
+    "landing": "Landing Page"
+  },
+  "buttons": {
+    "readMore": "Read More",
+    "back": "Back",
+    "next": "Next",
+    "previous": "Previous"
+  },
+  "forms": {
+    "submit": "Submit",
+    "cancel": "Cancel",
+    "save": "Save",
+    "edit": "Edit",
+    "delete": "Delete",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Use"
+  },
+  "footer": {
+    "copyright": "© 2025 TechInsights Blog - Doan Quoc Cuong. Sharing knowledge, connecting the future."
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "header": {
+    "logo": "TechInsights 博客",
+    "darkMode": "深色模式",
+    "lightMode": "浅色模式",
+    "categories": "分类"
+  },
+
+  "menu": {
+    "ai": {
+      "title": "🤖 AI & 机器学习",
+      "loggerAI": "日志 AI",
+      "sqliteAI": "SQLite AI"
+    },
+    "pages": {
+      "title": "📄 动态页面",
+      "dynamicPage": "动态页面",
+      "multiPage": "多页面",
+      "staticContent": "静态内容",
+      "pageId": "页面 ID"
+    }
+  },
+
+  "hero": {
+    "title": "欢迎来到 TechInsights",
+    "subtitle": "为每个人分享AI、编程、智能家居、物联网和电子技术知识",
+    "slogan": "\"不断学习以引领技术发展，将传统价值与现代力量相结合。每一行代码、电路或技术解决方案都致力于创造力、稳定性和人文关怀。\""
+  },
+
+  "skills": {
+    "title": "专业领域",
+    "ai": {
+      "title": "AI & 机器学习",
+      "description": "从办公自动化到复杂数据分析的实用AI应用。分享LLM工程和现代AI工具的经验。"
+    },
+    "programming": {
+      "title": "编程 & 开发",
+      "description": "Java、JavaScript、React Native教程和移动应用开发。分享使用Odoo进行ERP部署的经验。"
+    },
+    "smartHome": {
+      "title": "智能家居 & 物联网",
+      "description": "使用Tuya、eWeLink、Broadlink构建智能家居指南。从基础到高级，帮助您创建现代生活空间。"
+    },
+    "electronics": {
+      "title": "电气 & 电子",
+      "description": "电路、晶体管、IC和微控制器的基础知识。家庭太阳能发电系统设计指南。"
+    },
+    "systems": {
+      "title": "系统 & 网络",
+      "description": "Linux/Windows系统管理、网络安全和数据备份。分享企业IT基础设施运维经验。"
+    },
+    "database": {
+      "title": "数据库",
+      "description": "Oracle、PostgreSQL、MySQL和MongoDB的深度管理。性能优化和高效数据库设计。"
+    }
+  },
+
+  "contact": {
+    "title": "联系 & 连接",
+    "description": "让我们联系起来，共同学习和分享技术知识！",
+    "email": "邮箱",
+    "businessConsulting": "商务咨询",
+    "businessDescription": "ERP、数字化转型、自动化",
+    "training": "培训",
+    "trainingDescription": "AI、编程、智能家居、电子技术",
+    "technicalServices": "技术服务",
+    "technicalDescription": "设计、安装、系统维护"
+  }
+}

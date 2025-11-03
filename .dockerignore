@@ -1,0 +1,9 @@
+# Ignore everything first
+*
+
+# Then allow specific files/folders
+!.next/standalone/
+!.next/static/
+!public/
+!package.json
+!next.config.js

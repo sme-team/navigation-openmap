@@ -1,0 +1,90 @@
+{
+  "compilerOptions": {
+    "target": "es5",
+    "lib": [
+      "dom",
+      "dom.iterable",
+      "es6"
+    ],
+    "allowJs": true,
+    "skipLibCheck": true,
+    "strict": true,
+    "noEmit": true,
+    "esModuleInterop": true,
+    "module": "esnext",
+    "moduleResolution": "bundler",
+    "resolveJsonModule": true,
+    "isolatedModules": true,
+    "jsx": "preserve",
+    "incremental": true,
+    "plugins": [
+      {
+        "name": "next"
+      }
+    ],
+    "baseUrl": ".",
+    "paths": {
+      "@/*": [
+        "./src/*"
+      ],
+      "@/app/*": [
+        "src/app/[locale]/enterprises/*"
+      ],
+      "@/configs/*": [
+        "src/configs/*"
+      ],
+      "@/constants/*": [
+        "src/constants/*"
+      ],
+      "@/components/*": [
+        "src/components/*"
+      ],
+      "@/contexts/*": [
+        "src/contexts/*"
+      ],
+      "@/images/*": [
+        "src/images/*"
+      ],
+      "@/lib/*": [
+        "src/lib/*"
+      ],
+      "@/locales/*": [
+        "public/locales/*"
+      ],
+      "@/logger/*": [
+        "src/logger/*"
+      ],
+      "@/pages/*": [
+        "src/pages/*"
+      ],
+      "@/styles/*": [
+        "src/styles/*"
+      ],
+      "@/types/*": [
+        "src/types/*"
+      ],
+      "@/utils/*": [
+        "src/utils/*"
+      ],
+      "@/public/*": [
+        "public/*"
+      ]
+    }
+  },
+  "include": [
+    "next-env.d.ts",
+    "**/*.ts",
+    "**/*.tsx",
+    ".next/types/**/*.ts",
+    "src/**/*",
+    "public/**/*.json",
+    "src/app/**/*",
+    "src/app/[locale]/enterprises/**/*",
+    "src/app/landing/**/*",
+    "src/app/blog/**/*",
+    "src/app/types/**/*"
+  ],
+  "exclude": [
+    "node_modules"
+  ]
+}
