@@ -75,7 +75,7 @@
     "next-env.d.ts",
     "**/*.ts",
     "**/*.tsx",
-    ".next/types/**/*.ts",
+    "frontend/.next/types/**/*.ts",
     "src/**/*",
     "public/**/*.json",
     "src/app/**/*",

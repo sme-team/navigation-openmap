@@ -28,7 +28,6 @@ navigation-openmap/
 ├── workflows/ # CI/CD pipelines
 └── ISSUE_TEMPLATE/
 
-
 ---
 
 ## ⚙️ Technology Stack
