@@ -1,0 +1,76 @@
+{
+  "common": {
+    "about": "关于",
+    "services": "服务",
+    "blog": "博客",
+    "contact": "联系",
+    "allRightsReserved": "版权所有",
+    "softwareDevelopment": "软件开发",
+    "filter": "过滤",
+    "export": "导出",
+    "deselectAll": "取消全选",
+    "selectAll": "全选",
+    "delete": "删除",
+    "previous": "上一页",
+    "next": "下一页",
+    "loading": "加载中...",
+    "edit": "编辑",
+    "never": "从未",
+    "view": "查看",
+    "actions": "操作",
+    "cancel": "取消",
+    "saving": "保存中...",
+    "save": "保存更改",
+    "clearFilters": "清除所有",
+    "refresh": "刷新"
+  },
+  "settings": {
+    "title": "设置",
+    "theme": "主题",
+    "color": "颜色",
+    "language": "语言",
+    "lightMode": "明亮",
+    "darkMode": "暗黑",
+    "systemMode": "系统",
+    "chooseColor": "选择您喜欢的颜色方案",
+    "languageDescription": "更改将应用于所有页面"
+  },
+  "nav": {
+    "home": "首页",
+    "login": "登录",
+    "about": "关于",
+    "blog": "博客",
+    "links": "链接",
+    "services": "服务",
+    "contact": "联系",
+    "company": "DqcAi",
+    "profile": "个人资料",
+    "dashboard": "仪表板",
+    "adminDashboard": "管理员仪表板",
+    "logout": "登出"
+  },
+  "pages": {
+    "home": "TechInsights",
+    "articles": "文章",
+    "dqcai": "@dqcai/sqlite 结构",
+    "landing": "登陆页"
+  },
+  "buttons": {
+    "readMore": "阅读更多",
+    "back": "返回",
+    "next": "下一步",
+    "previous": "上一页"
+  },
+  "forms": {
+    "submit": "提交",
+    "cancel": "取消",
+    "save": "保存",
+    "edit": "编辑",
+    "delete": "删除",
+    "privacy": "隐私政策",
+    "terms": "使用条款"
+  },
+  "footer": {
+    "copyright": "© 2025 TechInsights 博客 - 段国强。分享知识，连接未来。"
+  }
+}

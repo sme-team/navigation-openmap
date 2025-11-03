@@ -1,0 +1,76 @@
+{
+"common": {
+  "about": "Giới thiệu",
+    "services": "Dịch vụ",
+    "blog": "Blog",
+    "contact": "Liên hệ",
+    "allRightsReserved": "Tất cả quyền được bảo lưu.",
+    "softwareDevelopment": "Phát triển phần mềm",
+    "filter": "Bộ lọc",
+    "export": "Xuất",
+    "deselectAll": "Bỏ chọn tất cả",
+    "selectAll": "Chọn tất cả",
+    "delete": "Xóa",
+    "previous": "Trước",
+    "next": "Tiếp",
+    "loading": "Đang tải...",
+    "edit": "Chỉnh sửa",
+    "never": "Chưa bao giờ",
+    "view": "Xem",
+    "actions": "Hành động",
+    "cancel": "Hủy",
+    "saving": "Đang lưu...",
+    "save": "Lưu Thay đổi",
+    "clearFilters": "Xóa tất cả",
+    "refresh": "Làm mới"
+  },
+  "settings": {
+    "title": "Cài đặt",
+    "theme": "Giao diện",
+    "color": "Màu sắc",
+    "language": "Ngôn ngữ",
+    "lightMode": "Sáng",
+    "darkMode": "Tối",
+    "systemMode": "Hệ thống",
+    "chooseColor": "Chọn bảng màu yêu thích của bạn",
+    "languageDescription": "Thay đổi sẽ áp dụng cho tất cả các trang"
+  },
+  "nav": {
+    "home": "Trang chủ",
+    "login": "Đăng nhập",
+    "about": "Giới thiệu",
+    "blog": "Blog",
+    "links": "Liên kết",
+    "services": "Dịch vụ",
+    "contact": "Liên hệ",
+    "company": "DqcAi",
+    "profile": "Hồ sơ",
+    "dashboard": "Bảng điều khiển",
+    "adminDashboard":"Quản trị nội dung",
+    "logout": "Đăng xuất"
+  },
+  "pages": {
+    "home": "TechInsights",
+    "articles": "Bài viết",
+    "dqcai": "Cấu trúc @dqcai/sqlite",
+    "landing": "Trang đích"
+  },
+  "buttons": {
+    "readMore": "Đọc thêm",
+    "back": "Quay lại",
+    "next": "Tiếp theo",
+    "previous": "Trước"
+  },
+  "forms": {
+    "submit": "Gửi",
+    "cancel": "Hủy",
+    "save": "Lưu",
+    "edit": "Sửa",
+    "delete": "Xóa",
+    "privacy": "Chính sách bảo mật",
+    "terms": "Điều khoản sử dụng"
+  },
+  "footer": {
+    "copyright": "© 2025 TechInsights Blog - Đoàn Quốc Cường. Chia sẻ tri thức, kết nối tương lai."
+  }
+}

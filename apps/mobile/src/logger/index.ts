@@ -1,0 +1,44 @@
+// ./src/logger/index.ts
+import {
+  LoggerConfigBuilder,
+  CommonLoggerConfig,
+  CommonModules,
+  createModuleLogger,
+} from "@dqcai/logger";
+
+const AppModules = {
+  ...CommonModules,
+  I18N_CLIENT: "I18NEXT-CLIENT",
+  I18N_PROVIDER: "I18NEXT-PROVIDER",
+  I18N_SERVER: "I18NEXT-SERVER",
+  CONTEXT: "CONTEXT",
+  AUTH_CONTEXT: "AUTH-CONTEXT",
+  HEADER: "HEADER",
+  LOGIN_CONTENT: "LOGIN-CONTENT",
+  PROFILE_CONTENT: "PROFILE-CONTENT",
+  DASHBOARD_CONTENT: "DASHBOARD-CONTENT",
+  REGISTER_CONTENT: "REGISTER-CONTENT",
+  API_HOOK: "API-HOOK",
+  ARTICLE_DETAIL_PAGE: "ARTICLE-DETAIL-PAGE",
+  ARTICLE_FLOATING_ACTION: "ARTICLE_FLOATING_ACTION",
+  ARTICLES_PAGE: "ARTICLE-LIST-PAGE",
+  SETTING: "SETTING",
+  MIDDLEWARE: "MIDDLEWARE",
+  MARKDOWN_RENDERER: "MARKDOWN-RENDERER",
+  IMAGE_PICKER: "IMAGE-PICKER",
+  UPLOAD_FILE: "UPLOAD-FILE",
+  IMAGE_UTILS: "IMAGE-UTILS",
+  FINGER_PRINT: "FINGER-PRINT",
+  ADMIN_USERS: "ADMIN_USERS",
+  ADMIN_ARTICLE: "ADMIN_ARTICLE",
+  ADMIN_DASHBOARD: "ADMIN_DASHBOARD",
+  MAP: "MAP",
+};
+
+const config = new LoggerConfigBuilder()
+  .setEnabled(true)
+  .setDefaultLevel("trace")
+  .build();
+CommonLoggerConfig.updateConfiguration(config);
+
+export { createModuleLogger, AppModules };

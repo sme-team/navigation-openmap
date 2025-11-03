@@ -1,0 +1,69 @@
+{
+  "header": {
+    "logo": "TechInsights Blog",
+    "darkMode": "Chế độ tối",
+    "lightMode": "Chế độ sáng",
+    "categories": "Chuyên mục"
+  },
+
+  "menu": {
+    "ai": {
+      "title": "🤖 AI & Machine Learning",
+      "loggerAI": "Logger AI",
+      "sqliteAI": "SQLite AI"
+    },
+    "pages": {
+      "title": "📄 Trang Động",
+      "dynamicPage": "Trang Động",
+      "multiPage": "Nhiều Trang",
+      "staticContent": "Nội dung tĩnh",
+      "pageId": "Trang Id"
+    }
+  },
+
+  "hero": {
+    "title": "Chào mừng đến với TechInsights",
+    "subtitle": "Chia sẻ kiến thức AI, lập trình, SmartHome, IoT và điện tử dành cho mọi người",
+    "slogan": "\"Không ngừng học hỏi để tiên phong công nghệ, kết nối giá trị truyền thống với sức mạnh hiện đại. Mỗi dòng code, mạch điện, hay giải pháp công nghệ đều hướng tới mục tiêu sáng tạo, ổn định và nhân văn.\""
+  },
+
+  "skills": {
+    "title": "Lĩnh vực chuyên môn",
+    "ai": {
+      "title": "AI & Machine Learning",
+      "description": "Ứng dụng AI vào thực tế, từ tự động hóa văn phòng đến phân tích dữ liệu phức tạp. Chia sẻ kinh nghiệm về LLM Engineering và các công cụ AI hiện đại."
+    },
+    "programming": {
+      "title": "Lập trình & Phát triển",
+      "description": "Hướng dẫn lập trình Java, JavaScript, React Native, và phát triển ứng dụng di động. Chia sẻ kinh nghiệm triển khai ERP với Odoo."
+    },
+    "smartHome": {
+      "title": "SmartHome & IoT",
+      "description": "Hướng dẫn xây dựng nhà thông minh với Tuya, eWeLink, Broadlink. Từ cơ bản đến nâng cao, giúp bạn tạo không gian sống hiện đại."
+    },
+    "electronics": {
+      "title": "Điện & Điện tử",
+      "description": "Kiến thức cơ bản về mạch điện, transistor, IC và vi điều khiển. Hướng dẫn thiết kế hệ thống điện mặt trời cho gia đình."
+    },
+    "systems": {
+      "title": "Hệ thống & Mạng",
+      "description": "Quản trị hệ thống Linux/Windows, bảo mật mạng, và sao lưu dữ liệu. Chia sẻ kinh nghiệm vận hành hạ tầng IT doanh nghiệp."
+    },
+    "database": {
+      "title": "Cơ sở dữ liệu",
+      "description": "Quản trị chuyên sâu Oracle, PostgreSQL, MySQL và MongoDB. Tối ưu hóa hiệu suất và thiết kế cơ sở dữ liệu hiệu quả."
+    }
+  },
+
+  "contact": {
+    "title": "Liên hệ & Kết nối",
+    "description": "Hãy kết nối với tôi để cùng học hỏi và chia sẻ kiến thức công nghệ!",
+    "email": "Email",
+    "businessConsulting": "Tư vấn doanh nghiệp",
+    "businessDescription": "ERP, chuyển đổi số, tự động hóa",
+    "training": "Đào tạo",
+    "trainingDescription": "AI, lập trình, SmartHome, điện tử",
+    "technicalServices": "Dịch vụ kỹ thuật",
+    "technicalDescription": "Thiết kế, lắp đặt, bảo trì hệ thống"
+  }
+}

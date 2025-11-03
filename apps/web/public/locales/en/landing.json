@@ -1,0 +1,69 @@
+{
+  "header": {
+    "logo": "TechInsights Blog",
+    "darkMode": "Dark Mode",
+    "lightMode": "Light Mode",
+    "categories": "Categories"
+  },
+
+  "menu": {
+    "ai": {
+      "title": "🤖 AI & Machine Learning",
+      "loggerAI": "Logger AI",
+      "sqliteAI": "SQLite AI"
+    },
+    "pages": {
+      "title": "📄 Dynamic Page",
+      "dynamicPage": "Dynamic Page",
+      "multiPage": "Multiple Page",
+      "staticContent": "Static Content",
+      "pageId": "Page Id"
+    }
+  },
+
+  "hero": {
+    "title": "Welcome to TechInsights",
+    "subtitle": "Sharing knowledge about AI, Programming, SmartHome, IoT and Electronics for everyone",
+    "slogan": "\"Continuously learning to pioneer technology, connecting traditional values with modern power. Every line of code, circuit, or technology solution aims for creativity, stability and humanity.\""
+  },
+
+  "skills": {
+    "title": "Areas of Expertise",
+    "ai": {
+      "title": "AI & Machine Learning",
+      "description": "Practical AI applications from office automation to complex data analysis. Sharing experience in LLM Engineering and modern AI tools."
+    },
+    "programming": {
+      "title": "Programming & Development",
+      "description": "Tutorials on Java, JavaScript, React Native, and mobile app development. Sharing experience in ERP deployment with Odoo."
+    },
+    "smartHome": {
+      "title": "SmartHome & IoT",
+      "description": "Guide to building smart homes with Tuya, eWeLink, Broadlink. From basic to advanced, helping you create modern living spaces."
+    },
+    "electronics": {
+      "title": "Electrical & Electronics",
+      "description": "Basic knowledge of circuits, transistors, ICs and microcontrollers. Guide to designing solar power systems for homes."
+    },
+    "systems": {
+      "title": "Systems & Networks",
+      "description": "Linux/Windows system administration, network security, and data backup. Sharing enterprise IT infrastructure operation experience."
+    },
+    "database": {
+      "title": "Databases",
+      "description": "Deep administration of Oracle, PostgreSQL, MySQL and MongoDB. Performance optimization and efficient database design."
+    }
+  },
+
+  "contact": {
+    "title": "Contact & Connect",
+    "description": "Let's connect to learn and share technology knowledge together!",
+    "email": "Email",
+    "businessConsulting": "Business Consulting",
+    "businessDescription": "ERP, digital transformation, automation",
+    "training": "Training",
+    "trainingDescription": "AI, programming, SmartHome, electronics",
+    "technicalServices": "Technical Services",
+    "technicalDescription": "Design, installation, system maintenance"
+  }
+}
